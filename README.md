@@ -6,8 +6,8 @@ Give Verdict a proposed action and its context. It returns one of five verdicts:
 
 Built for the DOO Builders League challenge **"The Decision Engine"**.
 
-- **Live demo:** _add after deploy_
-- **90-second walkthrough:** _add Loom link_
+- **Live demo:** https://verdict-decision-engine.vercel.app
+- **90-second walkthrough (video):** https://github.com/Murtadha113/verdict-decision-engine/releases/download/v1.0/verdict-demo.mp4
 
 ---
 
